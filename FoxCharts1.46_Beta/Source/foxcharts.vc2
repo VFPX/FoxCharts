@@ -56,7 +56,7 @@ DEFINE CLASS _legend AS label 		&& Internal use. Not to be used directly !
 		*p: _width
 	*</DefinedPropArrayMethod>
 
-	HIDDEN AddProperty,Anchor,AutoSize,BackStyle,BorderStyle,Click,CloneObject,ColorScheme,ColorSource,Comment,DblClick,Destroy,DisabledBackColor,DisabledForeColor,DragDrop,DragIcon,DragMode,DragOver,Drag,Error,FontCondense,FontExtend,FontOutline,FontShadow,GotFocus,HelpContextID,Init,LostFocus,MiddleClick,MouseDown,MouseEnter,MouseIcon,MouseLeave,MouseMove,MousePointer,MouseUp,MouseWheel,Move,OLECompleteDrag,OLEDragDrop,OLEDragMode,OLEDragOver,OLEDragPicture,OLEDrag,OLEDropEffects,OLEDropHasData,OLEDropMode,OLEGiveFeedback,OLESetData,OLEStartDrag,ParentClass,Parent,ReadExpression,ReadMethod,Refresh,ResetToDefault,RightClick,RightToLeft,SaveAsClass,ShowWhatsThis,StatusBarText,Style,TabIndex,TabStop,Tag,ToolTipText,UIEnable,WhatsThisHelpID,WordWrap,WriteExpression,WriteMethod,ZOrder
+	HIDDEN addproperty,anchor,autosize,backstyle,borderstyle,click,cloneobject,colorscheme,colorsource,comment,dblclick,destroy,disabledbackcolor,disabledforecolor,dragdrop,dragicon,dragmode,dragover,drag,error,fontcondense,fontextend,fontoutline,fontshadow,gotfocus,helpcontextid,Init,lostfocus,middleclick,mousedown,mouseenter,mouseicon,mouseleave,mousemove,mousepointer,mouseup,mousewheel,move,olecompletedrag,oledragdrop,oledragmode,oledragover,oledragpicture,oledrag,oledropeffects,oledrophasdata,oledropmode,olegivefeedback,olesetdata,olestartdrag,parentclass,parent,readexpression,readmethod,refresh,resettodefault,rightclick,righttoleft,saveasclass,showwhatsthis,statusbartext,style,tabindex,tabstop,tag,tooltiptext,uienable,whatsthishelpid,wordwrap,writeexpression,writemethod,zorder
 	AutoSize = .T.
 	backcoloralpha = 0
 	Caption = "Legend"
@@ -82,41 +82,6 @@ DEFINE CLASS _legend AS label 		&& Internal use. Not to be used directly !
 		<memberdata name="backcoloralpha" type="property" display="BackColorAlpha"/>
 		<memberdata name="width" type="property" display="Width"/>
 		<memberdata name="oledragpicture" type="property" display="OLEDragPicture"/>
-		<memberdata name=<VFPData><memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="whatsthishelpid" type="property" display="WhatsThisHelpID"/>
-		<memberdata name="_setup" type="method" display="_Setup"/>
-		<memberdata name="forecoloralpha" type="property" display="ForeColorAlpha"/>
-		<memberdata name="backcoloralpha" type="property" display="BackColorAlpha"/>
-		<memberdata name="width" type="property" display="Width"/>
-		<memberdata name="oledragpicture" type="property" display="OLEDragPicture"/>
-		<memberdata name=<VFPData><memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="whatsthishelpid" type="property" display="WhatsThisHelpID"/>
-		<memberdata name="_setup" type="method" display="_Setup"/>
-		<memberdata name="forecoloralpha" type="property" display="ForeColorAlpha"/>
-		<memberdata name="backcoloralpha" type="property" display="BackColorAlpha"/>
-		<memberdata name="width" type="property" display="Width"/>
-		<memberdata name="oledragpicture" type="property" display="OLEDragPicture"/>
-		<memberdata name=<VFPData><memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="whatsthishelpid" type="property" display="WhatsThisHelpID"/>
-		<memberdata name="_setup" type="method" display="_Setup"/>
-		<memberdata name="forecoloralpha" type="property" display="ForeColorAlpha"/>
-		<memberdata name="backcoloralpha" type="property" display="BackColorAlpha"/>
-		<memberdata name="width" type="property" display="Width"/>
-		<memberdata name="oledragpicture" type="property" display="OLEDragPicture"/>
-		<memberdata name=<VFPData><memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="whatsthishelpid" type="property" display="WhatsThisHelpID"/>
-		<memberdata name="_setup" type="method" display="_Setup"/>
-		<memberdata name="forecoloralpha" type="property" display="ForeColorAlpha"/>
-		<memberdata name="backcoloralpha" type="property" display="BackColorAlpha"/>
-		<memberdata name="width" type="property" display="Width"/>
-		<memberdata name="oledragpicture" type="property" display="OLEDragPicture"/>
-		<memberdata name=<VFPData><memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="autosize" type="property" display="AutoSize"/>
-		<memberdata name="whatsthishelpid" type="property" display="WhatsThisHelpID"/>
 		</VFPData>		&& XML Metadata for customizable properties
 	_obrush = 
 	_ofont = 
@@ -981,109 +946,7 @@ DEFINE CLASS foxcharts AS container 		&& This is the main FoxCharts class. Just 
 		<memberdata name="getchartproperties" display="GetChartProperties"/>
 		<memberdata name="getscalelegend" display="GetScaleLegend"/>
 		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
-		<memberdata name="versiona" display="VersionA"/>
-		<memberdata name="version" display="Version"/>
-		<memberdata name="getchartproperties" display="GetChartProperties"/>
-		<memberdata name="getscalelegend" display="GetScaleLegend"/>
-		<memberdata name="getscalevalue" display="GetScaleValue"/>
-		<memberdata name="savechartproperties" <VFPData><memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseenter" display="ShapeMouseEnter"/>
-		<memberdata name="shapemouseleave" display="ShapeMouseLeave"/>
-		<memberdata name="shapemousemove" display="ShapeMouseMove"/>
+		<memberdata name="savechartproperties" display="SaveChartProperties"/>
 		<memberdata name="versiona" display="VersionA"/>
 		</VFPData>		&& XML Metadata for customizable properties
 	_minscale = 0
