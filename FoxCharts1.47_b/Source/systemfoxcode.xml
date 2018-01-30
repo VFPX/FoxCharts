@@ -1,0 +1,305 @@
+<?xml version = "1.0" encoding="Windows-1252" standalone="yes"?>
+<VFPData>
+	<row>
+		<type>C</type>
+		<abbrev>draw</abbrev>
+		<expanded>Drawing</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTG9</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Bmp</abbrev>
+		<expanded>Bitmap</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Bitmap.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGA</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Brus</abbrev>
+		<expanded>Brush</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.SolidBrush.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGB</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Clr</abbrev>
+		<expanded>Color</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Color.FromRGB</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGC</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Font</abbrev>
+		<expanded>Font</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Font.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGD</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Gfx</abbrev>
+		<expanded>Graphics</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Graphics.FromImage</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGE</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>GfxH</abbrev>
+		<expanded>GraphicsH</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Graphics.FromHWnd</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2HB1EHKAD</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>GfxI</abbrev>
+		<expanded>GraphicsI</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Graphics.FromImage</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2HB1EHKAE</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Img</abbrev>
+		<expanded>Image</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Image.FromFile</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGF</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Matr</abbrev>
+		<expanded>Matrix</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Drawing2D.Matrix.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGG</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Path</abbrev>
+		<expanded>GraphicsPath</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Drawing2D.GraphicsPath.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGH</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Pen</abbrev>
+		<expanded>Pen</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Pen.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGI</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Pnt</abbrev>
+		<expanded>Point</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Point.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGJ</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Rect</abbrev>
+		<expanded>Rectangle</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Rectangle.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGK</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>Stre</abbrev>
+		<expanded>Stream</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.IO.MemoryStream.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGL</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>F</type>
+		<abbrev>clrm</abbrev>
+		<expanded>ColorMatrix</expanded>
+		<cmd>{gdiplusx}</cmd>
+		<tip>_SCREEN.System.Drawing.Imaging.ColorMatrix.New</tip>
+		<data/>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGM</uniqueid>
+		<user/>
+	</row>
+	<row>
+		<type>S</type>
+		<abbrev>gdiplusx</abbrev>
+		<expanded/>
+		<cmd/>
+		<tip/>
+		<data>LPARAMETER oFoxcode
+LOCAL lcfxtoollib, lnWinHdl, laEnv, lcStr, lcLastWord, lcReturn, lcWith
+
+lcfxtoollib = SYS(2004)+"FOXTOOLS.FLL"
+IF !FILE(lcfxtoollib)
+	RETURN .F.
+ENDIF
+SET LIBRARY TO (m.lcfxtoollib) ADDITIVE
+
+lnWinHdl = _WONTOP()
+_wselect(lnWinHdl)
+
+DIMENSION laEnv[25]
+_EdGetEnv(lnWinHdl ,@laEnv)
+lcStr = _EDGETSTR(lnWinHdl , 0, laEnv[17])
+
+lcWith = WithStr(lcStr)
+lcReturn = oFoxCode.Tip
+IF NOT EMPTY(lcWith)
+	IF lcWith+"." == UPPER(LEFT(oFoxCode.Tip,LEN(lcWith)+1))
+		lcReturn = SUBSTR(oFoxCode.Tip, LEN(lcWith)+1)
+	ENDIF
+ENDIF
+
+oFoxCode.ValueType = "V"
+RETURN lcReturn
+
+
+PROCEDURE WithStr(tcStr)
+	LOCAL lcStr, lnLines, i, laLines, lcWord, lcReturn
+	
+	IF EMPTY(tcStr)
+		RETURN ""
+	ENDIF
+	lcStr = tcStr
+	lcReturn = ""
+	
+	DIMENSION laLines[1]
+	lnLines = ALINES(laLines,lcStr)
+
+	* Quick search backward to find a WITH
+	FOR i = lnLines TO 1 STEP -1
+		lcWord = UPPER(ALLTRIM(GETWORDNUM(ALLTRIM(laLines[m.i]), 1)))
+		IF LEN(lcWord)&gt;3 AND lcWord=="ENDWITH"
+			EXIT
+		ENDIF
+		IF LEN(lcWord)&gt;3 AND lcWord=="WITH"
+			lcWord = ALLTRIM(CHRTRAN(laLines[m.i],CHR(9)," "))
+			IF ATC(REPLICATE("&amp;",2), lcWord) &gt; 0   &amp;&amp; strip out comments
+				lcWord = ALLTRIM(LEFT(lcWord, ATC(REPLICATE("&amp;",2),lcWord)-1) ) 
+			ENDIF
+			IF ATC(" AS ", lcWord) &gt; 0   &amp;&amp; strip out AS
+				lcWord = ALLTRIM(LEFT(lcWord, ATC(" AS ",lcWord)-1) ) 
+			ENDIF
+			
+			lcWord = ALLTRIM(STRTRAN(lcWord,"WITH ","",1,1,1))
+			
+			lcReturn = UPPER(lcWord) 
+			EXIT
+		ENDIF
+	ENDFOR
+	
+	RETURN lcReturn
+ENDPROC
+</data>
+		<case>M</case>
+		<save>false</save>
+		<timestamp>2008-09-30T00:00:00</timestamp>
+		<source>VFPX</source>
+		<uniqueid>_2H612DTGN</uniqueid>
+		<user/>
+	</row>
+</VFPData>
