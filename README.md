@@ -1,7 +1,8 @@
 # FoxCharts
 **A class based on the ImageCanvas class from GdiPlusX that allows VFP developers to directly draw charts and graphs.**
 
-Project Manager: Cesar ([vfpimaging@hotmail.com](mailto:vfpimaging@hotmail.com))
+Project Manager: Cesar ([vfpimaging@hotmail.com](mailto:vfpimaging@hotmail.com)) Versions till 1.37
+Project Manager: YudinAlexKiev (alex.yudin.49@mail.ru) Versions 1.4x
 
 Goals of FoxCharts:
 * Create good looking and modern charts in pure VFP code
